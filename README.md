@@ -1,2 +1,2 @@
-# primer-repositorio-en-la-nube-
-es el repositorio de prueba 
+este proyecto es una prueba
+
